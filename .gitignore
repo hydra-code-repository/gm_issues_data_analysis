@@ -1,0 +1,21 @@
+# Sensitive data
+*.csv
+data/
+
+# venv
+gm_dashboard_env/
+
+# Build files
+build/
+dist/
+*.exe
+
+# Pythonn cache
+__pycache__/
+
+# IDE
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
