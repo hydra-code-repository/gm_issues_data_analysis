@@ -76,10 +76,6 @@ Uses regex patterns to extract and standardize diagnostic trouble codes:
 
 
 ## Author
-<<<<<<< HEAD
 Developed by [Weverson Barbieri de Oliveira](https://github.com/weversonbarbieri)
 
 
-=======
-Developed by [Weverson Barbieri de Oliveira]([text](https://github.com/weversonbarbieri))
->>>>>>> 2baf8ede45dcb8317b46d12de6a25f6cc64beb0c
